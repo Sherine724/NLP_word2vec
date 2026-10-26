@@ -72,4 +72,4 @@ python main.py
 
 ## 致谢
 
-实验指导与参考实现来自课程仓库 nlp-course 的 `chapter03/zhword2vec` 示例。
+实验指导与参考实现来自仓库 nlp-course 的 `chapter03/zhword2vec` 示例。

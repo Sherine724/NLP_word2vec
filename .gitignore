@@ -1,0 +1,9 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 编辑器配置
+.vscode/
+
+# 压缩包
+*.zip
